@@ -1,5 +1,5 @@
-x = 10
-y = 50
+x = int(input("Enter first number")
+y = int(input("Enter second number")
 print("Initial value of x:", x)
 print("Initial value of y:", y)
 x = x^y
